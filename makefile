@@ -3,6 +3,6 @@
 all: PutHTML
 
 PutHTML:
-	cp *.html /var/www/html/wisdomresume/
+	cp *.html /ubuntu/Wisdomweb/WisdomResume/WisdomWebResume/WisdomWebResume/wisdomresume/
 	echo "Current contents of your HTML directory: "
-	ls -l /var/www/html/wisdomresume/
+	ls -l /ubuntu/Wisdomweb/WisdomResume/WisdomWebResume/WisdomWebResume/wisdomresume/
